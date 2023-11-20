@@ -1,0 +1,31 @@
+2023-06-05 00:08:45 INFO  StepDef:32 - Logsetup done
+2023-06-05 00:08:47 INFO  StepDef:46 - Chrome Browser Lanuched
+2023-06-05 00:08:51 INFO  StepDef:53 - URL opens
+2023-06-05 00:08:51 INFO  StepDef:62 - Mail id & Passwor entered
+2023-06-05 00:08:56 INFO  StepDef:70 - Clicked on login button
+2023-06-05 00:08:56 INFO  StepDef:121 - Title Verified
+2023-06-05 00:08:56 INFO  StepDef:130 - Clicked on customer menu
+2023-06-05 00:08:58 INFO  StepDef:137 - Clicked on customer menu item
+2023-06-05 00:09:00 INFO  StepDef:144 - Clicked in Add new button
+2023-06-05 00:09:00 INFO  StepDef:155 - Title verified
+2023-06-05 00:09:01 INFO  StepDef:177 - Entered customer info.
+2023-06-05 00:09:14 INFO  StepDef:183 - Clicked save button
+2023-06-05 00:09:14 INFO  StepDef:102 - Browser closed
+2023-06-05 00:09:14 INFO  StepDef:32 - Logsetup done
+2023-06-05 00:09:16 INFO  StepDef:46 - Chrome Browser Lanuched
+2023-06-05 00:09:20 INFO  StepDef:53 - URL opens
+2023-06-05 00:09:20 INFO  StepDef:62 - Mail id & Passwor entered
+2023-06-05 00:09:26 INFO  StepDef:70 - Clicked on login button
+2023-06-05 00:09:26 INFO  StepDef:121 - Title Verified
+2023-06-05 00:09:26 INFO  StepDef:130 - Clicked on customer menu
+2023-06-05 00:09:28 INFO  StepDef:137 - Clicked on customer menu item
+2023-06-05 00:09:30 INFO  StepDef:102 - Browser closed
+2023-06-05 00:09:30 INFO  StepDef:32 - Logsetup done
+2023-06-05 00:09:31 INFO  StepDef:46 - Chrome Browser Lanuched
+2023-06-05 00:09:35 INFO  StepDef:53 - URL opens
+2023-06-05 00:09:35 INFO  StepDef:62 - Mail id & Passwor entered
+2023-06-05 00:09:41 INFO  StepDef:70 - Clicked on login button
+2023-06-05 00:09:41 INFO  StepDef:121 - Title Verified
+2023-06-05 00:09:41 INFO  StepDef:130 - Clicked on customer menu
+2023-06-05 00:09:43 INFO  StepDef:137 - Clicked on customer menu item
+2023-06-05 00:09:45 INFO  StepDef:102 - Browser closed

@@ -1,0 +1,26 @@
+package testlogin.featuesfiles;
+
+public class detailsofcucumberofcucumber {
+	
+	//BDD- behaviour driven development.BDD me test cases natural english language me likhi jaati hai taaki non-technical person bhi ise padh sake.
+	//BDD me Given-When-Then language me test cases likhe jaate hai.BDD me mainly application k behaviour ko capture kiya jata hai.
+	//Given:- preconditions or initial context
+	//When:- Event or trigger.
+	//Then:- Expected output.
+	//Example:Given :- URL of the login page is open
+	//when:- user enter the user name and password and click on login button
+	//Then:-Home page shall open. 
+	//BDD is used to test the end to end application behaviour. Cucumber ek tool hai jo BDD k liye use kiya jata hai. It explain the behavior of the application in a simple
+	//english text using Gherkin language.
+	//Cucumber me application k behaviour ko feature file me describe kiya jata hai. feature file ka extenion ".feature" hot hai and ek feature file me sirf ek feature hota hai.
+	//Important terms used in gerkins language:-
+	//Feature[Summary]
+	//Background[define steps that are common to all the tests in the feature file.]
+	//scenario[Title]
+	//And[add conditions to your steps]
+	//But[add negative type comments]
+	//Scenario outline examples:-used for data driven testing
+	
+	
+
+}
